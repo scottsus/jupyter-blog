@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "jupyter-blog"
+  site-url: "https://scottsus.github.io/jupyter-blog"
+  description: "Blog with Jupyter notebooks"
+  repo-branch: main
+  repo-url: "https://github.com/scottsus/jupyter-blog"
