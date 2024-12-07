@@ -1,0 +1,42 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "jupyter-blog 🪐",
+    "section": "",
+    "text": "There are lots of features that nbdev provides, including exports, modules, and more, but we’re just using this as our blog to render ipynb files, so we’re ignoring those.\nFor more information visit https://nbdev.fast.ai/tutorials/tutorial.html",
+    "crumbs": [
+      "jupyter-blog 🪐"
+    ]
+  },
+  {
+    "objectID": "index.html#documentation",
+    "href": "index.html#documentation",
+    "title": "jupyter-blog 🪐",
+    "section": "",
+    "text": "There are lots of features that nbdev provides, including exports, modules, and more, but we’re just using this as our blog to render ipynb files, so we’re ignoring those.\nFor more information visit https://nbdev.fast.ai/tutorials/tutorial.html",
+    "crumbs": [
+      "jupyter-blog 🪐"
+    ]
+  },
+  {
+    "objectID": "index.html#quick-start",
+    "href": "index.html#quick-start",
+    "title": "jupyter-blog 🪐",
+    "section": "Quick Start",
+    "text": "Quick Start\nTo make changes, edit the files inside /nbs, then\nnbdev_preview\nnbdev_export",
+    "crumbs": [
+      "jupyter-blog 🪐"
+    ]
+  },
+  {
+    "objectID": "first-notebook.html",
+    "href": "first-notebook.html",
+    "title": "First Notebook",
+    "section": "",
+    "text": "print(\"Hello there 👋\")\n\nHello there 👋",
+    "crumbs": [
+      "First Notebook"
+    ]
+  }
+]
